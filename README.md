@@ -3,7 +3,7 @@
 
 ## 🔨 Funcionalidades do projeto
 
-Projeto React de um formulario que submete informações dos agentes do FDS Valorant e cria cards referentes a sua especificação
+Projeto React de um formulario que submete informações dos agentes do FPS Valorant e cria cards com as informações submetidas
 
 ![](public/imagens/gif.gif)
 
