@@ -1,5 +1,7 @@
 # Valorant-React
-
+<p align = "center">
+    <img src="public/imagens/banner.jpg">
+</p>
 
 ## 🔨 Funcionalidades do projeto
 
