@@ -18,8 +18,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `Components`: Criação de componentes em JSX
 
 ## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/cesarsouza13/Valorant-React) ou [baixá-lo](https://github.com/cesarsouza13/Valorant-React/archive/refs/heads/main.zip).
+[pode acessar o projeto em funcionamento](https://valorant-react.vercel.app/), [acessar o código fonte do projeto inicial](https://github.com/cesarsouza13/Valorant-React) ou [baixá-lo](https://github.com/cesarsouza13/Valorant-React/archive/refs/heads/main.zip).
 
 
 ## 🛠️ Abrir e rodar o projeto
