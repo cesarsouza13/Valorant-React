@@ -1,0 +1,21 @@
+.classe{
+
+    text-align: center;
+    padding: 2em;
+   
+}
+
+.classe h3{
+
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: .5em;
+}
+
+.classe .agentes{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2em;
+    flex-wrap: wrap;
+}
