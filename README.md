@@ -27,7 +27,7 @@ Após baixar o projeto, você pode abrir com o Visutal studio Code e seguir os s
 
 Inicialize o projeto com:
 ```
-npx creacte-react-app
+npx create-react-app
 ```
 Em seguida,
 
